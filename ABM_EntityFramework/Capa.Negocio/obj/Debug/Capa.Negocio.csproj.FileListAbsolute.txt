@@ -1,0 +1,25 @@
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Negocio.dll
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Negocio.pdb
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Datos.dll
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Entidades.dll
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Datos.pdb
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Entidades.pdb
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\obj\Debug\Capa.Negocio.csprojResolveAssemblyReference.cache
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\obj\Debug\Capa.Negocio.dll
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\obj\Debug\Capa.Negocio.pdb
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\bin\Debug\EntityFramework.dll
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Negocio\bin\Debug\EntityFramework.xml
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Negocio.dll
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Negocio.pdb
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Datos.dll
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Entidades.dll
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\bin\Debug\EntityFramework.dll
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Datos.pdb
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Entidades.pdb
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Entidades.dll.config
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\bin\Debug\EntityFramework.xml
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\obj\Debug\Capa.Negocio.csprojResolveAssemblyReference.cache
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\obj\Debug\Capa.Negocio.csproj.CoreCompileInputs.cache
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\obj\Debug\Capa.Negocio.dll
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\obj\Debug\Capa.Negocio.pdb
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Negocio\bin\Debug\Capa.Datos.dll.config

@@ -1,0 +1,21 @@
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Entidades\bin\Debug\Capa.Entidades.dll
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Entidades\bin\Debug\Capa.Entidades.pdb
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Entidades\obj\Debug\Capa.Entidades.csprojResolveAssemblyReference.cache
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Entidades\obj\Debug\Capa.Entidades.dll
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Entidades\obj\Debug\Capa.Entidades.pdb
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Entidades\bin\Debug\Capa.Entidades.dll.config
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Entidades\bin\Debug\EntityFramework.dll
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Entidades\bin\Debug\EntityFramework.xml
+c:\users\lab10\documents\visual studio 2015\Projects\ABM_EntityFramework\Capa.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\bin\Debug\Capa.Entidades.dll.config
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\bin\Debug\Capa.Entidades.dll
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\bin\Debug\Capa.Entidades.pdb
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\bin\Debug\EntityFramework.dll
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\bin\Debug\EntityFramework.xml
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\obj\Debug\Capa.Entidades.csprojResolveAssemblyReference.cache
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\obj\Debug\Capa.Entidades.csproj.CoreCompileInputs.cache
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\obj\Debug\Capa.Entidades.dll
+E:\Joaquin\Documents\Neoris\ABM_EntityFramework\Capa.Entidades\obj\Debug\Capa.Entidades.pdb

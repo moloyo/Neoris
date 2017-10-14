@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Datos", "Capa.Datos\Capa.Datos.csproj", "{DDDC48E1-1B78-46E0-B370-42A162E3BAE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Negocio", "Capa.Negocio\Capa.Negocio.csproj", "{06AFA07D-73A9-4709-A927-01CD2662F3DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Entidades", "Capa.Entidades\Capa.Entidades.csproj", "{0F63AD14-2EDB-4EF5-A37B-594E456A324B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Presentacion", "Capa.Presentacion\Capa.Presentacion.csproj", "{61BAD001-C153-42E7-8133-FF87271B5083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Consola", "Capa.Consola\Capa.Consola.csproj", "{3194ACC9-9994-4E20-9E5D-8D102318E100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDC48E1-1B78-46E0-B370-42A162E3BAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDC48E1-1B78-46E0-B370-42A162E3BAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDC48E1-1B78-46E0-B370-42A162E3BAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDC48E1-1B78-46E0-B370-42A162E3BAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06AFA07D-73A9-4709-A927-01CD2662F3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AFA07D-73A9-4709-A927-01CD2662F3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AFA07D-73A9-4709-A927-01CD2662F3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AFA07D-73A9-4709-A927-01CD2662F3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F63AD14-2EDB-4EF5-A37B-594E456A324B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F63AD14-2EDB-4EF5-A37B-594E456A324B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F63AD14-2EDB-4EF5-A37B-594E456A324B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F63AD14-2EDB-4EF5-A37B-594E456A324B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BAD001-C153-42E7-8133-FF87271B5083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BAD001-C153-42E7-8133-FF87271B5083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BAD001-C153-42E7-8133-FF87271B5083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BAD001-C153-42E7-8133-FF87271B5083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3194ACC9-9994-4E20-9E5D-8D102318E100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3194ACC9-9994-4E20-9E5D-8D102318E100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3194ACC9-9994-4E20-9E5D-8D102318E100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3194ACC9-9994-4E20-9E5D-8D102318E100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023B4017-83FC-4F23-814A-874CB8A9AFFC}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://garciaj.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Capa.Datos\\Capa.Datos.csproj
+		SccProjectName1 = Capa.Datos
+		SccLocalPath1 = Capa.Datos
+		SccProjectUniqueName2 = Capa.Entidades\\Capa.Entidades.csproj
+		SccProjectName2 = Capa.Entidades
+		SccLocalPath2 = Capa.Entidades
+		SccProjectUniqueName3 = Capa.Negocio\\Capa.Negocio.csproj
+		SccProjectName3 = Capa.Negocio
+		SccLocalPath3 = Capa.Negocio
+		SccProjectUniqueName4 = Capa.Presentacion\\Capa.Presentacion.csproj
+		SccProjectName4 = Capa.Presentacion
+		SccLocalPath4 = Capa.Presentacion
+		SccProjectUniqueName5 = Capa.Consola\\Capa.Consola.csproj
+		SccProjectName5 = Capa.Consola
+		SccLocalPath5 = Capa.Consola
+	EndGlobalSection
+EndGlobal
