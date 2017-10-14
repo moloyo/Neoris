@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Entidades", "Capa.Entidades\Capa.Entidades.csproj", "{DE61B9DC-E5E7-4154-AE50-E17680996E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Datos", "Capa.Datos\Capa.Datos.csproj", "{3D458192-7A76-41FB-93B4-EC0B2CA99D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Logica", "Capa.Logica\Capa.Logica.csproj", "{3A0473BC-9C94-4CAE-AFD5-EEB24FC96DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa.Presentacion", "Capa.Presentacion\Capa.Presentacion.csproj", "{1CFF913E-8A14-4B61-95B6-BC400B2DBC0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE61B9DC-E5E7-4154-AE50-E17680996E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE61B9DC-E5E7-4154-AE50-E17680996E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE61B9DC-E5E7-4154-AE50-E17680996E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE61B9DC-E5E7-4154-AE50-E17680996E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D458192-7A76-41FB-93B4-EC0B2CA99D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D458192-7A76-41FB-93B4-EC0B2CA99D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D458192-7A76-41FB-93B4-EC0B2CA99D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D458192-7A76-41FB-93B4-EC0B2CA99D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0473BC-9C94-4CAE-AFD5-EEB24FC96DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0473BC-9C94-4CAE-AFD5-EEB24FC96DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0473BC-9C94-4CAE-AFD5-EEB24FC96DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0473BC-9C94-4CAE-AFD5-EEB24FC96DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CFF913E-8A14-4B61-95B6-BC400B2DBC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFF913E-8A14-4B61-95B6-BC400B2DBC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFF913E-8A14-4B61-95B6-BC400B2DBC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFF913E-8A14-4B61-95B6-BC400B2DBC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95B60253-BD18-4DEB-954C-ACABB0EBB3FD}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://garciaj.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Capa.Entidades\\Capa.Entidades.csproj
+		SccProjectName1 = Capa.Entidades
+		SccLocalPath1 = Capa.Entidades
+		SccProjectUniqueName2 = Capa.Datos\\Capa.Datos.csproj
+		SccProjectName2 = Capa.Datos
+		SccLocalPath2 = Capa.Datos
+		SccProjectUniqueName3 = Capa.Logica\\Capa.Logica.csproj
+		SccProjectName3 = Capa.Logica
+		SccLocalPath3 = Capa.Logica
+		SccProjectUniqueName4 = Capa.Presentacion\\Capa.Presentacion.csproj
+		SccProjectName4 = Capa.Presentacion
+		SccLocalPath4 = Capa.Presentacion
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Entidades\bin\Debug\Capa.Entidades.dll.config
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Entidades\bin\Debug\Capa.Entidades.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Entidades\bin\Debug\Capa.Entidades.pdb
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Entidades\bin\Debug\EntityFramework.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Entidades\bin\Debug\EntityFramework.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Entidades\obj\Debug\Capa.Entidades.csprojResolveAssemblyReference.cache
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Entidades\obj\Debug\Capa.Entidades.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Entidades\obj\Debug\Capa.Entidades.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\bin\Debug\Capa.Entidades.dll.config
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\bin\Debug\Capa.Entidades.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\bin\Debug\Capa.Entidades.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\bin\Debug\EntityFramework.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\bin\Debug\EntityFramework.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\obj\Debug\Capa.Entidades.csprojResolveAssemblyReference.cache
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\obj\Debug\Capa.Entidades.csproj.CoreCompileInputs.cache
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\obj\Debug\Capa.Entidades.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Entidades\obj\Debug\Capa.Entidades.pdb

@@ -1,0 +1,25 @@
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\obj\Debug\Capa.Logica.csprojResolveAssemblyReference.cache
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\bin\Debug\Capa.Logica.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\bin\Debug\Capa.Logica.pdb
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\bin\Debug\Capa.Datos.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\bin\Debug\Capa.Entidades.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\bin\Debug\EntityFramework.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\bin\Debug\Capa.Datos.pdb
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\bin\Debug\Capa.Entidades.pdb
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\bin\Debug\EntityFramework.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\obj\Debug\Capa.Logica.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Logica\obj\Debug\Capa.Logica.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\bin\Debug\Capa.Logica.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\bin\Debug\Capa.Logica.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\bin\Debug\Capa.Datos.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\bin\Debug\Capa.Entidades.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\bin\Debug\EntityFramework.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\bin\Debug\Capa.Datos.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\bin\Debug\Capa.Datos.dll.config
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\bin\Debug\Capa.Entidades.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\bin\Debug\Capa.Entidades.dll.config
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\bin\Debug\EntityFramework.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\obj\Debug\Capa.Logica.csprojResolveAssemblyReference.cache
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\obj\Debug\Capa.Logica.csproj.CoreCompileInputs.cache
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\obj\Debug\Capa.Logica.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Logica\obj\Debug\Capa.Logica.pdb

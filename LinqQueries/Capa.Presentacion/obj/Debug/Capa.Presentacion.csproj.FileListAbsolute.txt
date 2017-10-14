@@ -1,0 +1,89 @@
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\obj\Debug\Capa.Presentacion.csprojResolveAssemblyReference.cache
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\ApplicationInsights.config
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\csc.exe
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\vbc.exe
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\VBCSCompiler.exe
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Capa.Presentacion.dll.config
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Capa.Presentacion.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Capa.Presentacion.pdb
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Capa.Entidades.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Capa.Logica.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\EntityFramework.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\EntityFramework.SqlServer.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.Web.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.ApplicationInsights.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Capa.Datos.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Capa.Entidades.pdb
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Capa.Logica.pdb
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\EntityFramework.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\EntityFramework.SqlServer.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.Web.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.ApplicationInsights.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\bin\Capa.Datos.pdb
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\obj\Debug\Capa.Presentacion.dll
+c:\Users\lab04\Documents\Visual Studio 2015\Projects\LinqQueries\Capa.Presentacion\obj\Debug\Capa.Presentacion.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\ApplicationInsights.config
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\csc.exe
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\vbc.exe
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\VBCSCompiler.exe
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Presentacion.dll.config
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Presentacion.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Presentacion.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Entidades.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Logica.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\EntityFramework.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\EntityFramework.SqlServer.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.DependencyCollector.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.Web.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.WindowsServer.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.ApplicationInsights.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Datos.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Entidades.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Entidades.dll.config
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Logica.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\EntityFramework.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\EntityFramework.SqlServer.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.DependencyCollector.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.Web.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.AI.WindowsServer.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.ApplicationInsights.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Datos.pdb
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\bin\Capa.Datos.dll.config
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\obj\Debug\Capa.Presentacion.csprojResolveAssemblyReference.cache
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\obj\Debug\Capa.Presentacion.csproj.CoreCompileInputs.cache
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\obj\Debug\Capa.Presentacion.dll
+E:\Joaquin\Documents\Neoris\LinqQueries\Capa.Presentacion\obj\Debug\Capa.Presentacion.pdb
